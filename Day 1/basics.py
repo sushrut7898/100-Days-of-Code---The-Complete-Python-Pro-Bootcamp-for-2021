@@ -6,18 +6,18 @@ print('print(\'what to print\')')
 print("print('what to print')")
 
 print('Hello world!\nHello world!\nHello world!')
-print('Hello' + ' ' +'Sushrut')
+print('Hello' + ' ' + 'Sushrut')
 
-#1. Missing double quotes before the word Day.
+# 1. Missing double quotes before the word Day.
 print("Day 1 - String Manipulation")
 
-#2. Outer double quotes changed to single quotes.
+# 2. Outer double quotes changed to single quotes.
 print('String Concatenation is done with the "+" sign.')
 
-#3. Extra indentation removed
+# 3. Extra indentation removed
 print('e.g. print("Hello " + "world")')
 
-#4. Extra ( in print function removed.
+# 4. Extra ( in print function removed.
 print("New lines can be created with a backslash and n.")
 
 name = input('What is your name?')      # INPUT Function
